@@ -1,4 +1,4 @@
-# Text Editor Starter Code
+# 🦾 Text Editor(PWA) 🦾 
 
 Just another text editor using progressibe web app(PWA) method.
 
