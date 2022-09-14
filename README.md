@@ -7,7 +7,7 @@ Just another text editor using progressive web app(PWA) technology.
 ## Deployed URL: https://pacific-shore-30338.herokuapp.com/
 
 ## Screenshot
-[homepage](./client/src/images/Screen%20Shot%202022-09-12%20at%2010.51.56%20PM.png)
+![homepage](./client/src/images/Screen%20Shot%202022-09-12%20at%2010.51.56%20PM.png)
 
 ## Technologies
 * node.js 
